@@ -1,1 +1,1 @@
-# Machine-Vision-and-Virtual-Reality-Training
+# Machine Vision and Virtual Reality Training
